@@ -1,1 +1,1 @@
-# sixthsense
+This repository contains code that were used to produce the main data in the paper entitled:"Neural representations of naturalistic events are updated as our understanding of the past changes", eLife 2022 (link to the paper:https://elifesciences.org/articles/79045)
